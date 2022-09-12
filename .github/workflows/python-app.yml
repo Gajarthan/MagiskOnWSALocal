@@ -39,7 +39,7 @@ jobs:
         ls
     - name: a
       run: |
-        cd scripts
+        scripts/run.sh
     - name: a
       run: |
         ls -la
