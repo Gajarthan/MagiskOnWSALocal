@@ -37,3 +37,9 @@ jobs:
     - name: Test with pytest
       run: |
         ls
+    - name: a
+      run: |
+        cd scripts
+    - name: a
+      run: |
+        run.sh
