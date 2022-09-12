@@ -42,4 +42,4 @@ jobs:
         cd scripts
     - name: a
       run: |
-        run.sh
+        ls -la
